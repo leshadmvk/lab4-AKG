@@ -1,0 +1,23 @@
+{
+  "name": "lab4-akg",
+  "version": "1.0.0",
+  "description": "BSUIR KRAKENSKAYA",
+  "main": "three.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leshadmvk/lab4-AKG.git"
+  },
+  "keywords": [
+    "BSUIR",
+    "AKG"
+  ],
+  "author": "leshadmvk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leshadmvk/lab4-AKG/issues"
+  },
+  "homepage": "https://github.com/leshadmvk/lab4-AKG#readme"
+}
